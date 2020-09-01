@@ -1,4 +1,4 @@
-<a href="https://heroku.com/deploy?template=https://github.com/Praveenpes087/aem-projects-poc">
+<a href="https://heroku.com/deploy?template=https://github.com/Praveenpes087/aem-projects-poc" target="_blank">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
