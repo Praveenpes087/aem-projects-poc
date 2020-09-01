@@ -1,3 +1,7 @@
+<a href="https://heroku.com/deploy?template=https://github.com/Praveenpes087/aem-projects-poc">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+
 # Sample AEM project template
 
 This is a project template for AEM-based applications. It is intended as a best-practice set of examples as well as a potential starting point to develop your own functionality.
